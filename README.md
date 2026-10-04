@@ -1,2 +1,1 @@
-# GeosangTalk-Release
-GeosangTalk
+# GeosangTalk
